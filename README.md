@@ -1,4 +1,16 @@
-# Make CHANGES.md (for Ren/C repo)
+> Note: This code for generating a changelist was a good idea from Barry Walsh
+> (draegtun) for the Ren-C project.  The concept was to scrape the git history
+> for notable changes, because so many things changed in the project so often
+> it was hard for people to keep track.
+>
+> As good an idea as it was, it fell out of use and there was no continuous
+> integration to keep it working.  This made the files just a hassle in terms
+> of showing up when searching the codebase for terms.
+>
+> So it is archived for now.  But were it to be resurrected, it should live in
+> its own repository anyway--so it's taken out of the main repo.
+
+# Make CHANGES.md (for Ren-C repo)
 
 CHANGES.md keeps a list of notable changes to this repo grouped by release and type of change.
 
